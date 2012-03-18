@@ -1,0 +1,12 @@
+##assembly config file
+##each assembly ends with a '>' symbol
+
+NAME=Illumina only AbySS Assemblies
+ASSEMBLER=AbySS
+ASSEMBLERARGS=test
+ASSEMBLERPATH=test
+OUTPUTPATH=AbySS
+THREADS=8
+START=11
+END=22
+>
